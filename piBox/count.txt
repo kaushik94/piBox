@@ -1,0 +1,8 @@
+.DS_Store
+t.txt
+x.txt
+.txt
+t
+x.txt
+.txt
+x.txt
